@@ -1,0 +1,5 @@
+*here first we are trying to create a directory with name test 
+*after creating test directory we are changing our directory to test
+*then we are trying to create a empty file named file1 under test directory
+*then we are trying to create 2600 files 
+*then we are merginging two files underS 3
