@@ -1,7 +1,7 @@
 mkdir test 
 cd test 
 touch file1 
-for num in {1..2600}
+for num in {1..2600};do
    mkdir $num 
 done 
 cat 1 2>3
